@@ -1,0 +1,9 @@
+{
+  "name": "component-animations",
+  "repo": "bscomp/component-animations",
+  "description": "component-bootstrap",
+  "version": "0.0.1",
+  "dependencies": {
+  },
+  "styles": ["index.less"]
+}
